@@ -1,4 +1,6 @@
-## Hi there 👋
+👋
+<img width="260" height="194" alt="image" src="https://github.com/user-attachments/assets/dd024ecb-02be-4fe8-83f4-4edf76be3e6d" />
+👋
 
 <!--
 **alaaalsaban/alaaalsaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
