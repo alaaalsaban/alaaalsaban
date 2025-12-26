@@ -2,7 +2,7 @@
 <img width="260" height="194" alt="image" src="https://github.com/user-attachments/assets/dd024ecb-02be-4fe8-83f4-4edf76be3e6d" />
 
 
-# 👋 Hi, I’m Alaa Alsabban  
+# 👋 Hi, I’m Alaa
 🔹 **Senior Network Engineer | Automation Enthusiast | Problem Solver | Lifelong Learner**  
 🔹 10+ years in designing, implementing, and securing enterprise and data center networks.   
 🔹 Passionate about **network**, **automation**, and **modern Tech**.  
