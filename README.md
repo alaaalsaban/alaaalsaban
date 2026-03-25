@@ -31,7 +31,8 @@
 ---
 
 ## 📫 Let’s Connect and collaborate
-- **LinkedIn:** [linkedin.com/in/alaa-alsabban](#)
+- **LinkedIn:** [[linkedin.com/in/alaa-alsabban](https://www.linkedin.com/in/alaa-alsabban/)]
+- **Credly:** [[credly.com/users/alaa-alsaban](https://www.credly.com/users/alaa-alsaban/badges#credly)]
 
 <!--
 **alaaalsaban/alaaalsaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
